@@ -1,6 +1,6 @@
 
 
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 
 ::-moz-selection {
@@ -29,15 +29,15 @@
 }
 
 .centered {
-	text-align: center
+    text-align: center
 }
 
 .mt {
-	margin-top: 80px;
+    margin-top: 80px;
 }
 
 .mb {
-	margin-bottom: 80px;
+    margin-bottom: 80px;
 }
 
 /* ==========================================================================
@@ -55,7 +55,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 700;
+    font-weight: 700;
     color: #4a4a4a;
     padding-bottom: 20px;
     padding-top: 10px;
@@ -64,13 +64,13 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .navbar-default .navbar-brand {
-	color:#eaebeb;
+    color:#eaebeb;
 
 }
 
 .navbar-default {
-	background-color: #343737;
-	border-color: transparent;
+    background-color: #343737;
+    border-color: transparent;
     opacity: 0.6;
 }
 
@@ -116,15 +116,15 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
-	margin-top: -70px;
-	padding-top: 150px;
-	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 650px;
-	width: 100%;
-	
+    background: url(../img/back.jpg) no-repeat center top;
+    margin-top: -70px;
+    padding-top: 150px;
+    text-align:center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 650px;
+    width: 100%;
+    
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -137,42 +137,42 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #headerwrap h1 {
-	color:#ffffff;
-	padding-top: 40px;
-	padding-bottom: 20px;
-	letter-spacing: 4px;
-	font-size: 80px;
-	font-weight: bold;
+    color:#ffffff;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    letter-spacing: 4px;
+    font-size: 80px;
+    font-weight: bold;
 }
 
 #headerwrap h4 {
-	font-weight: 400;
-	color: #ffffff
+    font-weight: 400;
+    color: #ffffff
 }
 
 #social {
-	padding-top: 50px;
-	padding-bottom: 50px;
-    background-color:#E8E8E8; 	
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:#E8E8E8;   
 }
 
 #social i {
-	font-size: 40px;
-	color: #4a4a4a
+    font-size: 40px;
+    color: #4a4a4a
 }
 
 #social i:hover {
-	color: blue;
+    color: blue;
 }
 
 #footerwrap {
-	padding-top: 70px;
-	padding-bottom: 50px;
+    padding-top: 70px;
+    padding-bottom: 50px;
 
  height: 100%
     bottom: 0;
     width: 100%;
-	background-color: #2f2f2f;
+    background-color: #2f2f2f;
 }
 @media only screen and (max-width: 767px) {
   #footerwrap{
@@ -182,31 +182,31 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #footerwrap p {
-	color: #f2f2f2;
-	margin-left: 10px;
+    color: #f2f2f2;
+    margin-left: 10px;
 }
 
 
 
 .container_space{
-	margin-top: 80px;
+    margin-top: 80px;
 
-	 margin-bottom: 80px;
+     margin-bottom: 80px;
 }
 
 
 
 .grey{
-	background: #f9f9f9;
+    background: #f9f9f9;
 }
 
 /* Gallery */
 .gallery {
-	margin-top: 30px;
+    margin-top: 30px;
 }
 
 .gallery img:hover {
-	opacity: 0.4;
+    opacity: 0.4;
 }
 .gallery img{
     height: 250px;
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
     
     text-align:center;
 
-    min-height: 650px;
+    min-height: 700px;
     width: 100%;
 
 
@@ -301,19 +301,19 @@ h1, h2, h3, h4, h5, h6 {
 .dark-overlay{
 
    background-color: rgba(0,0,0,0.7);
-    
+    min-height: 700px;
     position:absolute;
     top:0;
     left: 0;
     width:100%;
-    min-height:650px;
+
 }
 
 #iandt{
-  background: url(../img/work.jpeg) no-repeat center top;
+  background: url(../img/play.jpeg) no-repeat center top;
 
  
-    min-height: 650px;
+    min-height: 700px;
     width: 100%;
     color: white;
 
@@ -341,7 +341,7 @@ h1, h2, h3, h4, h5, h6 {
     color: white;
 }
 .it{
-    color: white;
+    color:  #E8E8E8;
 }
 
 
